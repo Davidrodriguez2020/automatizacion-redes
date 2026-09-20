@@ -4,13 +4,13 @@
 
 **Datos del equipo**
 
-•	Eder Alexander Austria Mendoza — Documentación y auditoría
+•	Eder Alexander Austria Mendoza — Documentación
 
-•	Cristal Esmeralda Ruiz Herrejon — Instalación de Fase 1 y 3
+•	Cristal Esmeralda Ruiz Herrejon — Instalación y preparacion de Fase 1 y 3
 
 •	Diana Xochitl Hernández García — Auditoría de GitHub
 
-•	David Eduardo Rodríguez Romero — Instalación de Fase 2
+•	David Eduardo Rodríguez Romero — Instalación y preparacion de Fase 2
 
 
 **Propósito de la práctica**
@@ -53,6 +53,6 @@ Para cumplir con este propósito, la práctica se divide en cuatro fases fundame
 **4. Relación entre las diferentes herramientas**
 Python y VS Code operan como el núcleo de desarrollo para los scripts. Git y GitHub aseguran la trazabilidad y el control de versiones de todo ese código. Postman permite validar las APIs antes de integrarlas con dispositivos de red. GNS3, VMware y Docker simulan la infraestructura física y virtual para ejecutar las pruebas de automatización sin poner en riesgo entornos reales, mientras que OpenConnect VPN interconecta el laboratorio con redes externas cuando es necesario.
 
-**5. a**
+**5. Importancia de preparacion de entorno de desarollo**
 La preparación del entorno de trabajo integró el uso de Python y VS Code para el desarrollo de código, respaldado por Git y GitHub para el control de versiones. Asimismo, se emplearon herramientas como Postman para pruebas de APIs, Docker para contenedorización, y una arquitectura basada en VMware Workstation Pro y GNS3 para simular escenarios de red complejos. Resolver los retos de virtualización y dependencias permitió consolidar un entorno controlado, estable y seguro indispensable para ejecutar prácticas de automatización de redes de manera eficiente. 
 
