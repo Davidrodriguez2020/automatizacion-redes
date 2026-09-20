@@ -1,6 +1,6 @@
 # automatizacion-redes
 
-1. Datos del equipo
+****1. Datos del equipo**
 •	Eder Alexander Austria Mendoza — Documentación y auditoría	
 •	Cristal Esmeralda Ruiz Herrejon — Instalación de Fase 1 y 3 
 •	Diana Xochitl Hernández García — Auditoría de GitHub 
