@@ -1,11 +1,11 @@
 # automatizacion-redes
 
 1. Datos del equipo
-•	Eder Alexander Austria Mendoza — Documentación y auditoría 
+•	Eder Alexander Austria Mendoza — Documentación y auditoría	
 •	Cristal Esmeralda Ruiz Herrejon — Instalación de Fase 1 y 3 
 •	Diana Xochitl Hernández García — Auditoría de GitHub 
 •	David Eduardo Rodríguez Romero — Instalación de Fase 2 
-2. Propósito de la práctica
+3. Propósito de la práctica
 El propósito principal de esta práctica es instalar y configurar diversas herramientas tecnológicas para preparar un entorno de desarrollo de software colaborativo destinado a la automatización de redes, así como documentar de forma correcta todo el proceso de instalación de dichas herramientas. 
 Para cumplir con este propósito, la práctica se divide en cuatro fases fundamentales: 
 •	Fase 1 (Entorno de programación): Preparar las herramientas básicas para desarrollar scripts en Python. 
