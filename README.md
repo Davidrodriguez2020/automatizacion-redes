@@ -2,7 +2,7 @@
 
 
 
-**Datos del equipo**
+##**Datos del equipo**
 
 •	Eder Alexander Austria Mendoza — Documentación
 
@@ -13,7 +13,7 @@
 •	David Eduardo Rodríguez Romero — Instalación y preparacion de Fase 2
 
 
-**Propósito de la práctica**
+##**Propósito de la práctica**
 
 El propósito principal de esta práctica es instalar y configurar diversas herramientas tecnológicas para preparar un entorno de desarrollo de software colaborativo destinado a la automatización de redes, así como documentar de forma correcta todo el proceso de instalación de dichas herramientas. 
 Para cumplir con este propósito, la práctica se divide en cuatro fases fundamentales:
