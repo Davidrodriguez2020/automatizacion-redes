@@ -56,3 +56,25 @@ Python y VS Code operan como el núcleo de desarrollo para los scripts. Git y Gi
 **5. Importancia de preparacion de entorno de desarollo**
 La preparación del entorno de trabajo integró el uso de Python y VS Code para el desarrollo de código, respaldado por Git y GitHub para el control de versiones. Asimismo, se emplearon herramientas como Postman para pruebas de APIs, Docker para contenedorización, y una arquitectura basada en VMware Workstation Pro y GNS3 para simular escenarios de red complejos. Resolver los retos de virtualización y dependencias permitió consolidar un entorno controlado, estable y seguro indispensable para ejecutar prácticas de automatización de redes de manera eficiente. 
 
+
+
+## Avance del proyecto integrador
+
+### Práctica 1
+Preparación de la estación de automatización de redes.
+Estado: Completada.
+
+### Práctica 2
+Construcción de la red simulada en GNS3.
+Estado: Completada.
+
+**Infraestructura construida:**
+• Topología básica PC-Switch-PC.
+• Topología con dos routers y un switch multicapa.
+• Direccionamiento IP.
+• Conectividad entre dispositivos.
+• Protocolo OSPF.
+• Verificación de tablas de enrutamiento.
+
+**Próximo paso:**
+Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
