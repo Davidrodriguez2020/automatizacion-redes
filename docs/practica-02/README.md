@@ -18,7 +18,6 @@ Esta topología representa una red básica formada por dos equipos conectados me
 
 **Documentación y evidencias:**
 
-* [Configuración de la topología 1](topologia-01/configuracion.md)
 * [Evidencia 1: Topología 1](topologia-01/evidencias/01-topologia-01.jpeg)
 * [Evidencia 2: Topología 1](topologia-01/evidencias/02-topologia-01.jpeg)
 * [Evidencia 3: Ping de PC1 a PC2](topologia-01/evidencias/03-ping-pc1-pc2.jpeg)
