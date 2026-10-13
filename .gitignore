@@ -1,0 +1,17 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!docs/
+!docs/**
+!src/
+!src/**
+!data/
+!data/**
+!tests/
+!tests/**
+!automatizacion-redes/
+!automatizacion-redes/**
+venv/
+automatizacion-redes/venv/
+automatizacion-redes/automatizacion-redes/
