@@ -1,7 +1,6 @@
 # automatizacion-redes
 
 
-
 **Datos del equipo**
 
 •	Eder Alexander Austria Mendoza — Documentación
@@ -78,3 +77,13 @@ Estado: Completada.
 
 **Próximo paso:**
 Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
+
+### Práctica 3
+Primer programa de Python para representar información de dispositivos.
+Estado: Completada.
+
+Se creó un programa en Python que representa y muestra la información
+básica de los dispositivos de la red simulada.
+
+**Próximo paso:**
+Procesar y automatizar la información de la infraestructura de red.
