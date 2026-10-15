@@ -31,6 +31,7 @@ dispositivos = [
     }
 ]
 
+
 def ver_dis(dispositivo):
     print("Nombre:", dispositivo["nombre"])
     print("Tipo:", dispositivo["tipo"])
@@ -40,17 +41,28 @@ def ver_dis(dispositivo):
     print("Loopback:", dispositivo["loopback"])
     print("Marca:", dispositivo["marca"])
     print("Estado:", dispositivo["estado"])
+ 
+ 
+def buscar_dispositivo(nombre):
+    for dispositivo in dispositivos:
+        if dispositivo["nombre"].upper() == nombre.strip().upper():
+            return dispositivo
+    return None
+ 
 
 for dispositivo in dispositivos:
     ver_dis(dispositivo)
+    if dispositivo["estado"] == "Activo":
+        print("Dispositivo en funcionamiento")
+    else:
+        print("Revisar dispositivo")
     print(".......................")
-
-if dispositivo["estado"] == "Activo":
-    print("Dispositivo en funcionamiento")
+ 
+nombre_buscado = input("Nombre del dispositivo: ")
+resultado = buscar_dispositivo(nombre_buscado)
+ 
+if resultado:
+    print("\nDispositivo encontrado:")
+    ver_dis(resultado)
 else:
-    print("Revisar dispositivo")
-
-
-
-
-
+    print("\nDispositivo no encontrado.")
