@@ -61,13 +61,22 @@ Usando python se logra relacionar can la automatización de redes, ya que permit
 **A. Nos permite el almacenamiento de diferentes dispositivos usando una sola estructura, logrando recorrerlos, mostrar su informacion y hacer operaciones sobre ellos sin escribir instrucciones individuales.**
 
 4. ¿Qué tarea permite realizar el ciclo for? 
+**A. Con el ciclo for podemos recorrer la lista de dispositivos y ejecutar las mismas instrucciones en los dispositivos.**
+
 5. ¿Para qué se utilizó la estructura if? 
+**A. Se uso para evaluar el estado de los dispositivos, mostrado su estado actual del dispositivo, indicando si se encontraba o si no se habia encontrado el dispositivo.**
+
 6. ¿Qué ventaja tiene utilizar una función? 
-7. ¿Qué información de los dispositivos podría obtener automáticamente un programa en una 
-etapa posterior? 
-8. ¿Qué diferencia existe entre representar información de un dispositivo y obtener esa 
-información directamente desde el dispositivo? 
-9. ¿Cómo podría evolucionar este programa para convertirse en una herramienta de 
-automatización de redes? 
-10. ¿Qué relación existe entre esta práctica, la Práctica 2 y las siguientes prácticas del proyecto 
-integrador?
+**A. Nos permite reutilizar bloques de codigo, evitando escribirlo varias veces, por ejemplo buscar_dispositivo() y mostrar_dispositivo() nos ayudo a la organizacion, reduccion de repeticiones de instrucciones, ademas de que tiene un mantenimiento mas facil y con facilidad de ampliacion.**
+
+7. ¿Qué información de los dispositivos podría obtener automáticamente un programa en una etapa posterior? 
+**A. Informacion de estructuras mas avanzadas y configuradas o la conexion ya directa sobre los dispositivos, obteniendo su IP configuado, el estado de las interfaces, tablas de enrutamiento, el OSPF, etc.**
+
+8. ¿Qué diferencia existe entre representar información de un dispositivo y obtener esa información directamente desde el dispositivo? 
+**A. El representar la informacion de un dispositivo es solo organizar y procesar datos de dispositivos, mientras que,obtener la informacion difrecta es mas supervisar y adminitrar la red real o simulada.**
+
+9. ¿Cómo podría evolucionar este programa para convertirse en una herramienta de automatización de redes? 
+**A. Se podrian implementar diferentes cosas, como bibliotecas que nos permitan conectarnos a los dispositivos mediante SSH o API, permitiendo obtener la informacion de manera automatica y ejecutar comandos de configuracion, pasadno de representar informacion estatica a la supervision y admnistracion de redes automatizadas.**
+
+10. ¿Qué relación existe entre esta práctica, la Práctica 2 y las siguientes prácticas del proyecto integrador?
+**A. En la practica 2 realizamos una estructura de red simulada, contruyedola y configurandola, por otro lado en esta practica representamos esos dispositivos usados mediante codigo, y en las siguientes practicas se desarrollaran scrips para consultar informacion real. Por lo que su relacion es buscar construir una red de administraiva mediante herramientas de automatizacion.**
