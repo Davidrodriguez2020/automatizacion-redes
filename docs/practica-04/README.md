@@ -28,5 +28,6 @@ A. Seria la documentacion oficial de Python ya que es documentada y matenida por
 **•	¿Cuál consultarías para resolver un problema relacionado con GNS3?**
 A. La documentacion de GNS3 que proporciona, ya que ahi explica como se instala la GNS3 VM y documenta como armar pryectos, como configurar las plantillas de los dispositivos, y si no encontramos alguna solucion ahi, se podria consultar la comunidad de GNS3 o sus incidencias en GitHub para consultar si otras personas tuvieron el mismo error.
 
+
 **•	¿Por qué no conviene copiar directamente una solución sin comprobar que funciona en el entorno de trabajo?**
 A. Por que podria generar mas problemas, ya que podria ser para otra version o sistema operativo, lo que generaria otro problema, esto sin contar si el codigo tiene algun error, esta incompleto o funciona como nosotros queremos, por lo que se suguiere de leer primero el codigo, probarlo en un entorno de prueba y revisar los cambios que genero. 
