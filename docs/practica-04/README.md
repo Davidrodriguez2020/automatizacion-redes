@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica 4: Exploración de comunidades, documentación y recursos de colaboración
 
 ## Propósito de la práctica
@@ -7,6 +8,8 @@ Aprender a localizar, evaluar, utilizar y documentar recursos técnicos y comuni
 Proporciona una base de conocimiento organizada dentro del repositorio para facilitar la resolución de futuros errores de programación y configuración en scripts de Python y topologías de GNS3 vinculados al proyecto integrador.
 
 ## Evaluar la confiabilidad de los recursos
+=======
+# Evaluar la confiabilidad de los recursos
 
 Recursos evaluados:
 - **Recurso 1:** 
@@ -38,6 +41,7 @@ A. La documentacion de GNS3 que proporciona, ya que ahi explica como se instala 
 
 
 **•	¿Por qué no conviene copiar directamente una solución sin comprobar que funciona en el entorno de trabajo?**
+<<<<<<< HEAD
 A. Por que podria generar mas problemas, ya que podria ser para otra version o sistema operativo, lo que generaria otro problema, esto sin contar si el codigo tiene algun error, esta incompleto o funciona como nosotros queremos, por lo que se suguiere de leer primero el codigo, probarlo en un entorno de prueba y revisar los cambios que genero. 
 
 ## Estrategia de solución del problema
