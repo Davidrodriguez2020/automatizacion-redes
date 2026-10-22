@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Práctica 4: Exploración de comunidades, documentación y recursos de colaboración
 
 ## Propósito de la práctica
@@ -41,7 +40,6 @@ A. La documentacion de GNS3 que proporciona, ya que ahi explica como se instala 
 
 
 **•	¿Por qué no conviene copiar directamente una solución sin comprobar que funciona en el entorno de trabajo?**
-<<<<<<< HEAD
 A. Por que podria generar mas problemas, ya que podria ser para otra version o sistema operativo, lo que generaria otro problema, esto sin contar si el codigo tiene algun error, esta incompleto o funciona como nosotros queremos, por lo que se suguiere de leer primero el codigo, probarlo en un entorno de prueba y revisar los cambios que genero. 
 
 ## Estrategia de solución del problema
