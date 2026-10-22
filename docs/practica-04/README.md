@@ -7,8 +7,6 @@ Aprender a localizar, evaluar, utilizar y documentar recursos técnicos y comuni
 Proporciona una base de conocimiento organizada dentro del repositorio para facilitar la resolución de futuros errores de programación y configuración en scripts de Python y topologías de GNS3 vinculados al proyecto integrador.
 
 ## Evaluar la confiabilidad de los recursos
-=======
-# Evaluar la confiabilidad de los recursos
 
 Recursos evaluados:
 - **Recurso 1:** 
