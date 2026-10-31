@@ -96,7 +96,7 @@ Se identificaron y analizaron recursos de documentación y comunidades relaciona
 **Próximo paso:** 
 Continuar el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver problemas durante su implementación.
 
-### Práctica 5. Mi primer script en Python para la automatización de redes
+### Práctica 5
 Estado: Completada.
 
 En esta práctica se trabajó con un script de Python para conectarse mediante Telnet a un router Cisco en GNS3, aplicar configuraciones y verificar los cambios realizados. Entre las tareas contempladas se encuentran la creación de las interfaces Loopback0 y Loopback1, así como la configuración de OSPF.
