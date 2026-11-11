@@ -1,0 +1,12 @@
+Versión 1
+
+El control de versiones permite registrar los cambios realizados
+en los archivos de un proyecto de software.
+Equipo:
+
+Integrantes:
+
+•Eder Alexander Austria Mendoza
+•Diana Xochitl Hernández García
+•David Eduardo Rodríguez Romero 
+•Cristal Esmeralda Ruiz Herrejon  
