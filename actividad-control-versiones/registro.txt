@@ -10,3 +10,9 @@ Integrantes:
 •Diana Xochitl Hernández García
 •David Eduardo Rodríguez Romero 
 •Cristal Esmeralda Ruiz Herrejon  
+
+-------------------------------------------------------
+Versión 2
+
+Git permite conservar un historial de cambios y recuperar
+versiones anteriores de los archivos.
